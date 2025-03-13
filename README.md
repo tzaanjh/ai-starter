@@ -13,7 +13,7 @@ Nội dung: Làm quen với AI
 - [Link đến Bài 02](#)
 
 ## Tham Khảo
-- [Thông tin cá nhân](#)
+## Thông tin cá nhân
 
 ---
 
