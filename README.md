@@ -1,20 +1,7 @@
-# ai-starter
-Trường Lê Hồng Phong, TP.HCM, Việt Nam  
-[2024-09] AI CLASS  
-Giảng viên: Đỗ Như Tài  
-Học sinh: Vũ Thị Thanh Vân  
-Nội dung: Làm quen với AI  
-## App-Inventor
+# My Resume
 
-### Bài 01: Thực hành làm quen với App Inventor
-- [Link đến Bài 01](#)
+### Summary
 
-### Bài 02: Tạo Ứng Dụng Voice Calculator
-- [Link đến Bài 02](#)
+My resume I made using plain HTML5 & CSS.
+https://rjbasitali.github.io/
 
-## Tham Khảo
-## Thông tin cá nhân
-
----
-
-Do Nhu Tai
